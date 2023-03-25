@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have a proven track record of successfully delivering software projects on time, and I am comfortable working both independently and as part of a team. In addition to my technical skills, I also possess excellent communication and problem-solving abilities, which have allowed me to collaborate effectively with cross-functional teams and deliver high-quality software solutions.<br>I am currently Learning AWS and containerization of the application.
+I am working as a Backend Developer and having a proven track record of successfully delivering software projects on time, and I am comfortable working both independently and as part of a team. In addition to my technical skills, I also possess excellent communication and problem-solving abilities, which have allowed me to collaborate effectively with cross-functional teams and deliver high-quality software solutions.<br>I am currently Learning AWS and containerization of the application.
 
 
 ## 🌐 Socials:
