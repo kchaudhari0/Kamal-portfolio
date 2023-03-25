@@ -19,6 +19,6 @@ I have a proven track record of successfully delivering software projects on tim
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kchaudhari0&icon=1&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=kchaudhari0&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
