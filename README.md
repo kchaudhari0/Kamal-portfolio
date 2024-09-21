@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working as a Backend Developer and have a proven track record of successfully delivering software projects on time, and I am comfortable working both independently and as part of a team. In addition to my technical skills, I also possess excellent communication and problem-solving abilities.<br>Currently learning AWS and Docker.<br>Aspiration to learn React
+I am working as a Backend Developer and have a proven track record of successfully delivering software projects on time, I am comfortable working both independently and as part of a team. In addition to my technical skills, I also possess excellent communication and problem-solving abilities.<br>Currently learning Cloud.<br>Aspiration to learn Frontend
 
 
 ## 🌐 Socials:
